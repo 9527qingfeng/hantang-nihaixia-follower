@@ -1,7 +1,7 @@
 简介
 ===============
 
-最近更新时间：2025-04-09
+最近更新时间：2025-04-21
 
 [![](https://img.shields.io/badge/Author-轻疯-orange.svg)](https://github.com/9527qingfeng/hantang-nihaixia-follower) [![GitHub stars](https://img.shields.io/github/stars/9527qingfeng/hantang-nihaixia-follower.svg?style=social&label=Stars)](https://github.com/9527qingfeng/hantang-nihaixia-follower) [![GitHub forks](https://img.shields.io/github/forks/9527qingfeng/hantang-nihaixia-follower.svg?style=social&label=Fork)](https://github.com/9527qingfeng/hantang-nihaixia-follower)
 
@@ -58,6 +58,9 @@
 
 DeepSeek学习人纪后的AI
 ===============
+
+AI不是万能的，针对感冒或早期单一病症比较准，但是症状越多，AI没有完整的理论思维，抓不住重点或者分析错误是很正常的！AI可作为你的学习帮手，你的参谋，但是一定要自己会决断。
+
 ![图片](./小编医案/img/ai.png)
 
 学习建议
