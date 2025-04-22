@@ -44,7 +44,7 @@
 
 #### 网页端：
 
-最简单的搜索方式。注册并登录github后，点击网页顶部栏右侧的搜索框🔍。
+最简单的搜索方式。注册并登录Github后，点击网页顶部栏右侧的搜索框🔍。
 
 #### 手机端：
 
@@ -55,9 +55,9 @@
 
 #### 电脑端：
 
-VSCode+Git，深度学习时，推荐使用，可以在小编笔记的基础上随意修改，并可以随时更新小编最新笔记而不会被覆盖。
+VSCode+Git，深度学习时，推荐使用，可以在小编笔记的基础上随意修改，并可以随时更新小编最新笔记而不会被覆盖，需要理解并学会Git的多人协作编写一个内容的功能，比如三个人今天都改了1号文件，以哪个为主。
 
-[vscode安装使用教程](https://www.bilibili.com/video/BV1eT421e7P8/?vd_source=587efb7b2cb61b90f1a6a89624ee0276)
+[VSCode安装使用教程](https://www.bilibili.com/video/BV1eT421e7P8/?vd_source=587efb7b2cb61b90f1a6a89624ee0276)
 [Git安装教程](https://www.bilibili.com/video/BV1vM4m1Q7hC/?vd_source=587efb7b2cb61b90f1a6a89624ee0276)
 [TortoiseGit安装使用教程](https://www.bilibili.com/video/BV1xM41197PR/?vd_source=587efb7b2cb61b90f1a6a89624ee0276)
 
