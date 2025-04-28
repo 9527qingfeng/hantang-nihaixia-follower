@@ -1,7 +1,7 @@
 简介
 ===============
 
-最近更新时间：2025-04-21
+最近更新时间：2025-04-28
 
 [![](https://img.shields.io/badge/Author-轻疯-orange.svg)](https://github.com/9527qingfeng/hantang-nihaixia-follower) [![GitHub stars](https://img.shields.io/github/stars/9527qingfeng/hantang-nihaixia-follower.svg?style=social&label=Stars)](https://github.com/9527qingfeng/hantang-nihaixia-follower) [![GitHub forks](https://img.shields.io/github/forks/9527qingfeng/hantang-nihaixia-follower.svg?style=social&label=Fork)](https://github.com/9527qingfeng/hantang-nihaixia-follower)
 
@@ -55,7 +55,7 @@
 
 #### 电脑端：
 
-VSCode+Git，深度学习时，推荐使用，可以在小编笔记的基础上随意修改，并可以随时更新小编最新笔记而不会被覆盖，需要理解并学会Git的多人协作编写一个内容的功能，比如三个人今天都改了1号文件，以哪个为主。
+VSCode+Git，深度学习时，推荐使用，可以在小编笔记的基础上随意修改，并可以随时更新小编最新笔记而不会被覆盖，需要理解并学会Git的多人协作编写一个内容的功能。
 
 [VSCode安装使用教程](https://www.bilibili.com/video/BV1eT421e7P8/?vd_source=587efb7b2cb61b90f1a6a89624ee0276)
 [Git安装教程](https://www.bilibili.com/video/BV1vM4m1Q7hC/?vd_source=587efb7b2cb61b90f1a6a89624ee0276)
