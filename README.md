@@ -1,7 +1,7 @@
 简介
 ===============
 
-最近更新时间：2025-04-28
+最近更新时间：2025-05-23
 
 [![](https://img.shields.io/badge/Author-轻疯-orange.svg)](https://github.com/9527qingfeng/hantang-nihaixia-follower) [![GitHub stars](https://img.shields.io/github/stars/9527qingfeng/hantang-nihaixia-follower.svg?style=social&label=Stars)](https://github.com/9527qingfeng/hantang-nihaixia-follower) [![GitHub forks](https://img.shields.io/github/forks/9527qingfeng/hantang-nihaixia-follower.svg?style=social&label=Fork)](https://github.com/9527qingfeng/hantang-nihaixia-follower)
 
@@ -44,7 +44,7 @@
 
 #### 网页端：
 
-最简单的搜索方式。注册并登录Github后，点击网页顶部栏右侧的搜索框🔍。
+最简单的搜索方式。注册并登录Github后，在本项目网页，点击顶部栏右侧的搜索框🔍。
 
 #### 手机端：
 
