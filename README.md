@@ -1,7 +1,7 @@
 简介
 ===============
 
-最近更新时间：2025-07-02
+最近更新时间：2025-07-10
 
 [![](https://img.shields.io/badge/Author-轻疯-orange.svg)](https://github.com/9527qingfeng/hantang-nihaixia-follower) [![GitHub stars](https://img.shields.io/github/stars/9527qingfeng/hantang-nihaixia-follower.svg?style=social&label=Stars)](https://github.com/9527qingfeng/hantang-nihaixia-follower) [![GitHub forks](https://img.shields.io/github/forks/9527qingfeng/hantang-nihaixia-follower.svg?style=social&label=Fork)](https://github.com/9527qingfeng/hantang-nihaixia-follower)
 
@@ -26,6 +26,7 @@
 * [x] 人纪-4-伤寒论（教材+笔记）
 * [x] 人纪-5-金匮要略（教材+笔记）
 * [x] 倪师扶阳论坛演讲
+* [x] 人纪-6-人纪班闭门课（先看扶阳论坛演讲）
 * [x] 倪师仲景心法课程
 * [x] 倪师经方的妙用讲座
 * [x] 梁冬对话倪海厦
