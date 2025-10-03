@@ -1,6 +1,6 @@
 # 简介
 
-最近更新时间：2025-09-14
+最近更新时间：2025-10-3
 
 [![](https://img.shields.io/badge/Author-轻疯-orange.svg)](https://github.com/9527qingfeng/hantang-nihaixia-follower) [![GitHub stars](https://img.shields.io/github/stars/9527qingfeng/hantang-nihaixia-follower.svg?style=social&label=Stars)](https://github.com/9527qingfeng/hantang-nihaixia-follower) [![GitHub forks](https://img.shields.io/github/forks/9527qingfeng/hantang-nihaixia-follower.svg?style=social&label=Fork)](https://github.com/9527qingfeng/hantang-nihaixia-follower)
 
@@ -67,6 +67,9 @@ AI 不是万能的，针对感冒或早期单一病症比较准，但是症状�
 
 ![图片](./小编医案/img/ai.png)
 
+[【ima知识库】倪海厦人纪DeepSeek经方中医AI](https://ima.qq.com/wiki/?shareId=33a2ffbb492641f49b80481163c16cfdad0de44cb753f9066965a822b3addc26)
+
+
 # 学习建议
 
 毛主席 1965 年 6 月 26 日对卫生工作的指示：“医学教育要改革，根本用不着读那么多书。华佗读的是几年制？明朝的李时珍读的是几年制？医学教育用不着收什么高中生、初中生，高小毕业学 3 年就够了，主要在实践中学习提高”。
@@ -81,7 +84,7 @@ AI 不是万能的，针对感冒或早期单一病症比较准，但是症状�
 
 第二，因为身体有病有药医，心有病只能靠自己。让群经之首的易经来帮你调整一下心态，天行健君子以自强不息。给你的执念解决一下，再把祖国母亲批量生产牛马的底层代码给更新一下。
 
-之后学习完五部经典，如果还没有学天纪，可以开始学习一下。然后根据时间顺序，观看倪师各种讲座。
+学习完五部经典，如果还没有学天纪，可以开始学习一下。然后根据时间顺序，观看倪师各种讲座。
 
 再来就是学习倪师汉唐方剂讲解，对病理学和药理学有更深层的领悟。
 
@@ -93,7 +96,7 @@ AI 不是万能的，针对感冒或早期单一病症比较准，但是症状�
 
 可以根据一个人现在的面相，而相由心生，知道其大致的过去和现在的情况，获取客户更多信息后，就能推断。这门学问非常考验一个人的见识和逻辑性。
 
-中医的望诊总结、天纪的相术总结，一起来看，相术才比较全面。
+中医的望诊、天纪的相术，一起来看，相术才比较全面。
 
 # 最后
 
