@@ -1,6 +1,6 @@
 # 简介
 
-最近更新时间：2025-11-17
+最近更新时间：2025-11-23
 
 [![](https://img.shields.io/badge/Author-轻疯-orange.svg)](https://github.com/9527qingfeng/hantang-nihaixia-follower) [![GitHub stars](https://img.shields.io/github/stars/9527qingfeng/hantang-nihaixia-follower.svg?style=social&label=Stars)](https://github.com/9527qingfeng/hantang-nihaixia-follower) [![GitHub forks](https://img.shields.io/github/forks/9527qingfeng/hantang-nihaixia-follower.svg?style=social&label=Fork)](https://github.com/9527qingfeng/hantang-nihaixia-follower)
 
@@ -49,7 +49,7 @@
 请用 Github 移动端，到本项目的[Github 镜像仓库](https://github.com/9527qingfeng/hantang-nihaixia-follower)
 星标 Star 一下，就可以在你的 Github 移动端找到项目，并使用强大的全局搜索能力了。
 
-[Github 移动端教程](https://www.bilibili.com/video/BV1Np421Q7cc?spm_id_from=333.788.player.switch&vd_source=587efb7b2cb61b90f1a6a89624ee0276)
+[Github 移动端下载](https://pan.quark.cn/s/11a24515c50f)
 
 #### 电脑端：
 
