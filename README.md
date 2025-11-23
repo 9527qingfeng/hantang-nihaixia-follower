@@ -49,7 +49,9 @@
 请用 Github 移动端，到本项目的[Github 镜像仓库](https://github.com/9527qingfeng/hantang-nihaixia-follower)
 星标 Star 一下，就可以在你的 Github 移动端找到项目，并使用强大的全局搜索能力了。
 
-[Github 移动端下载](https://pan.quark.cn/s/11a24515c50f)
+[Github 移动端下载（新版）](https://pan.quark.cn/s/02085dfdec14)
+
+[Github 移动端下载（旧版）](https://pan.quark.cn/s/11a24515c50f)
 
 #### 电脑端：
 
