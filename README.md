@@ -1,6 +1,6 @@
 # 简介
 
-最近更新时间：2026-2-3
+最近更新时间：2026-3-3  新年快乐
 
 [![](https://img.shields.io/badge/Author-轻疯-orange.svg)](https://github.com/9527qingfeng/hantang-nihaixia-follower) [![GitHub stars](https://img.shields.io/github/stars/9527qingfeng/hantang-nihaixia-follower.svg?style=social&label=Stars)](https://github.com/9527qingfeng/hantang-nihaixia-follower) [![GitHub forks](https://img.shields.io/github/forks/9527qingfeng/hantang-nihaixia-follower.svg?style=social&label=Fork)](https://github.com/9527qingfeng/hantang-nihaixia-follower)
 
@@ -40,11 +40,11 @@
 
 新手临证只要记住关键词，然后快速查缺补漏，并不需要熟练掌握所有细节，以后用的多了自然记住了。
 
-#### 网页端：
+### 网页端：
 
 最简单的搜索方式。注册并登录 Github 后，在本项目网页，点击顶部栏右侧的搜索框 🔍。
 
-#### 手机端：
+### 手机端：
 
 请用 Github 移动端，到本项目的[Github 镜像仓库](https://github.com/9527qingfeng/hantang-nihaixia-follower)
 星标 Star 一下，就可以在你的 Github 移动端找到项目，并使用强大的全局搜索能力了。
@@ -55,9 +55,17 @@
 
 [登陆需要翻墙，用这个，免费](https://fa123.co/)
 
-#### 电脑端：
+### 电脑端：
 
-VSCode+Git，深度学习时，推荐使用，可以在小编笔记的基础上随意修改，并可以随时更新小编最新笔记而不会被覆盖，需要理解并学会 Git 的多人协作编写一个内容的功能，然后使用Fork功能。
+#### 纯小白
+
+点击网页绿色Code按钮，点击下拉弹窗最下面的Download ZIP按钮，下载后解压缩即可得到所有的资料内容。（此方法不能及时更新最新内容）
+
+学习工具可使用[X-tools软件](https://github.com/yanxxl/X-tools/releases)，点击左侧蓝色字体，进入网页，下载X-tools-windows-x64-X.X.X.zip后，解压安装。可全局搜索，甚至在不打开PDF的情况下可搜索PDF内容，并罗列展示。
+
+#### 进阶
+
+深度学习时，推荐使用VSCode+Git，可以在小编笔记的基础上随意修改，并可以随时更新小编最新笔记而不会被覆盖，需要理解并学会 Git 的多人协作编写一个内容的功能，然后使用Fork功能。
 
 [VSCode 安装使用教程](https://www.bilibili.com/video/BV1eT421e7P8/?vd_source=587efb7b2cb61b90f1a6a89624ee0276)
 [Git 安装教程](https://www.bilibili.com/video/BV1vM4m1Q7hC/?vd_source=587efb7b2cb61b90f1a6a89624ee0276)
