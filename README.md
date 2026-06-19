@@ -1,6 +1,6 @@
 # 简介
 
-最近更新时间：2026-6-15 
+最近更新时间：2026-6-19
 
 [![](https://img.shields.io/badge/Author-轻疯-orange.svg)](https://github.com/9527qingfeng/hantang-nihaixia-follower) [![GitHub stars](https://img.shields.io/github/stars/9527qingfeng/hantang-nihaixia-follower.svg?style=social&label=Stars)](https://github.com/9527qingfeng/hantang-nihaixia-follower) [![GitHub forks](https://img.shields.io/github/forks/9527qingfeng/hantang-nihaixia-follower.svg?style=social&label=Fork)](https://github.com/9527qingfeng/hantang-nihaixia-follower)
 
@@ -53,7 +53,7 @@
 
 [Github 移动端（旧版）](https://pan.quark.cn/s/11a24515c50f)
 
-[登陆需要翻墙，用这个，免费](https://fa123.co/)
+PS：登陆需要翻墙
 
 ### 电脑端：
 
