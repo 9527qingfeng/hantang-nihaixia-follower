@@ -1,6 +1,6 @@
 # 简介
 
-最近更新时间：2026-8-3
+最近更新时间：2026-10-23
 
 [![](https://img.shields.io/badge/Author-轻疯-orange.svg)](https://github.com/9527qingfeng/hantang-nihaixia-follower) [![GitHub stars](https://img.shields.io/github/stars/9527qingfeng/hantang-nihaixia-follower.svg?style=social&label=Stars)](https://github.com/9527qingfeng/hantang-nihaixia-follower) [![GitHub forks](https://img.shields.io/github/forks/9527qingfeng/hantang-nihaixia-follower.svg?style=social&label=Fork)](https://github.com/9527qingfeng/hantang-nihaixia-follower)
 
@@ -115,6 +115,6 @@ AI 不是万能的，针对感冒或早期单一病症比较准，但是症状�
 
 身体虚弱的来学习一下医术，倪师的针灸大成教学视频，每天花一两个小时，看一遍也就一两个月，足够入门了解怎么恢复健康了。
 
-如有学术相关问题咨询需要，扫码加微信，备注：咨询。
+如有学术相关问题咨询需要，扫码加微信（备注：咨询）拉你进交流群，。
 
 ![图片](./小编医案/img/vx.png)
